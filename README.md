@@ -16,9 +16,7 @@ The objective is to identify performance gaps in the marketing funnel and provid
 - Analyze lead generation trends over time
 - Provide actionable optimization strategies
 
----
-
-## 🛠 Tools & Technologies Used
+# Tools & Technologies Used
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Power Query (Data Cleaning)
