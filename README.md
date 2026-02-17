@@ -81,6 +81,8 @@ Allows dynamic exploration of marketing performance.
 # Repository Contents
 - FUTURE_DS_03.pbix
 - Dashboard Screenshot (.png)
+- olist_closed_deals_dataset.csv
+- olist_marketing_qualified_leads_dataset.csv
 - README.md
 
 # Conclusion
